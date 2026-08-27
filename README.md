@@ -4,7 +4,7 @@
 🇧🇷 Brasil
 
 
-Atualmente estudo sobre **Algoritmos**, **Fundamentos de Egenharia de Software**, e FrontEnd utilizando **HTML/CSS**.  
+Atualmente estudo sobre **Algoritmos**, **Fundamentos de Engenharia de Software**, e FrontEnd utilizando **HTML/CSS**.  
 Estou profundamente focado em criar minha propria **Fabrica de software**, com o conhecimento que vou adquirir em minha graduação.
 
 ---
